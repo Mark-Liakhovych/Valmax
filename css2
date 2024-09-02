@@ -1,0 +1,49 @@
+﻿@font-face {
+  font-family: 'M PLUS Rounded 1c';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(s/mplusrounded1c/v16/VdGCAYIAV6gnpUpoWwNkYvrugw9RuM3ixLs.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'M PLUS Rounded 1c';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/mplusrounded1c/v16/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0q5psK.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'M PLUS Rounded 1c';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/mplusrounded1c/v16/VdGEAYIAV6gnpUpoWwNkYvrugw9RuPWG.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'M PLUS Rounded 1c';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/mplusrounded1c/v16/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM1y55sK.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'M PLUS Rounded 1c';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/mplusrounded1c/v16/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM064ZsK.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'M PLUS Rounded 1c';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(s/mplusrounded1c/v16/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0m4psK.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'M PLUS Rounded 1c';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(s/mplusrounded1c/v16/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0C45sK.ttf) format('truetype');
+}
